@@ -1,4 +1,10 @@
-# main.py
+# !/usr/bin/env python
+# -*- coding:utf-8 -*-
+# @FileName     : main.py
+# @Description  : GAairfoil实现
+# @Time         : 2025/1/21
+# @Author       : qixuan_sun
+# @Software     : VScode
 import numpy as np
 import time
 from matplotlib import pyplot as plt
