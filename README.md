@@ -1,1 +1,1 @@
-# GAforairfoil
+# Genetic algorithm for forairfoil optimization
